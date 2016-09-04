@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListExample</string>
+    <string name="action_delete">Delete movie</string>
+    <string name="action_addmovie">Add movie</string>
+    <string name="year">Year</string>
+    <string name="rated">Rated</string>
+    <string name="released">Released</string>
+    <string name="genre">Enter genre</string>
+    <string name="plot">Enter plot</string>
+    <string name="actor">Enter actor info</string>
+    <string name="moviename">Enter movie name</string>
+    <string name="select">Select one</string>
+    <string name="ok">ok</string>
+    <string name="movies">Movies!</string>
+</resources>
